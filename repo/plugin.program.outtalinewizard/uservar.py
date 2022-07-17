@@ -13,11 +13,11 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = '[COLOR limegreen][B]OuttaLine[/B][/COLOR]Wizard'
+ADDONTITLE = 'OuttaLine Wizard'
 BUILDERNAME = 'OuttaLineWizard'
 EXCLUDES = [ADDON_ID, 'repository.outtalinewizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://www.github.com/outtaline/plugin.program.outtalinewizard/build.txt'
+BUILDFILE = 'https://raw.githubusercontent.com/outtaline/outtaline.github.io/main/repo/plugin.program.outtalinewiz/builds/build.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
