@@ -1,9 +1,9 @@
 id="plugin.program.outtalinewizard"
-version="1.0.8"
-zip="https://raw.githubusercontent.com/outtaline/outtaline.gthub.io/main/plugin.program.outtalinewizard-1.0.8.zip"
+version="1.0.9"
+zip="https://raw.githubusercontent.com/outtaline/outtaline.gthub.io/main/plugin.program.outtalinewizard-1.0.9.zip"
 
 name="OuttaLine"
-version="1.0.8"
+version="1.0.9"
 url="https://raw.githubusercontent.com/outtaline/outtaline.github.io/main/repo/plugin.program.outtalinewizard/builds/zips/build_2022-07-16.zip"
 minor="http://"
 gui="https://raw.githubusercontent.com/outtaline/outtaline.github.io/main/repo/plugin.program.outtalinewizard/builds/quisettings.xml"

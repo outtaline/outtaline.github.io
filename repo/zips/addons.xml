@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="plugin.program.outtalinewizard" name="OuttaLine Wizard" version="1.0.8" provider-name="outtaline">
+<addons><addon id="plugin.program.outtalinewizard" name="OuttaLine Wizard" version="1.0.9" provider-name="outtaline">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -27,7 +27,7 @@
             <fanart>fanart.png</fanart>
         </assets>
     </extension>
-</addon><addon id="repository.outtalinewizard" name="OuttaLineWiz Repository" version="1.0.8" provider-name="outtaline">
+</addon><addon id="repository.outtalinewizard" name="OuttaLineWiz Repository" version="1.0.9" provider-name="outtaline">
     <extension point="xbmc.addon.repository" name="OuttaLineWiz Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/outtaline/outtaline.github.io/main/repo/zips/addons.xml</info>
