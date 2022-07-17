@@ -1,6 +1,6 @@
 id="plugin.program.outtalinewizard"
 version="1.0.0"
-zip="https://raw.githubusercontent.com/outtaline/outtaline.gthub.io/main/plugin.program.outtalinewizard-1.0.3.zip"
+zip="https://raw.githubusercontent.com/outtaline/outtaline.gthub.io/main/plugin.program.outtalinewizard-1.0.4.zip"
 
 name="OuttaLine"
 version="1.0.0"
