@@ -63,7 +63,7 @@ SPACER = '='
 COLOR1 = 'limegreen'
 COLOR2 = 'white'
 # Primary menu items   / {0} is the menu item and is required
-THEME1 = u'[COLOR {color1}][I]([COLOR {color1}][B]Open[/B][/COLOR][COLOR {color2}]Wizard[COLOR {color1}])[/I][/COLOR] [COLOR {color2}]{{}}[/COLOR]'.format(color1=COLOR1, color2=COLOR2)
+THEME1 = u'[COLOR {color1}][I]([COLOR {color1}][B]OuttaLine[/B][/COLOR][COLOR {color2}]Wizard[COLOR {color1}])[/I][/COLOR] [COLOR {color2}]{{}}[/COLOR]'.format(color1=COLOR1, color2=COLOR2)
 # Build Names          / {0} is the menu item and is required
 THEME2 = u'[COLOR {color1}]{{}}[/COLOR]'.format(color1=COLOR1)
 # Alternate items      / {0} is the menu item and is required
@@ -75,7 +75,7 @@ THEME5 = u'[COLOR {color1}]Current Theme:[/COLOR] [COLOR {color2}]{{}}[/COLOR]'.
 
 # Message for Contact Page
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
-HIDECONTACT = 'No'
+HIDECONTACT = 'Yes'
 # You can add \n to do line breaks
 CONTACT = 'Thank you for choosing OpenWizard.\n\nContact us on Github at http://www.github.com/drinfernoo/plugin.program.openwizard/'
 # Images used for the contact window.  http:// for default icon and fanart
@@ -94,13 +94,13 @@ AUTOUPDATE = 'Yes'
 #        Auto Install Repo If Not Installed             #
 #########################################################
 # Enable Auto Install 'Yes' or 'No'
-AUTOINSTALL = 'No'
+AUTOINSTALL = 'Yes'
 # Addon ID for the repository
 REPOID = 'repository.openwizard'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://'
+REPOADDONXML = 'https://raw.githubusercontent.com/outtaline/outtaline.github.io/main/repo/zips/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://'
+REPOZIPURL = 'https://raw.githubusercontent.com/outtaline/outtaline.gthub.io/main/'
 #########################################################
 
 #########################################################
