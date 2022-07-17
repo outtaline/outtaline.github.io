@@ -17,7 +17,7 @@ ADDONTITLE = 'OuttaLine Wizard'
 BUILDERNAME = 'OuttaLineWizard'
 EXCLUDES = [ADDON_ID, 'repository.outtalinewizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://raw.githubusercontent.com/outtaline/outtaline.github.io/main/repo/plugin.program.outtalinewiz/builds/builds.txt'
+BUILDFILE = 'https://raw.githubusercontent.com/outtaline/outtaline.github.io/main/repo/plugin.program.outtalinewizard/builds/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
