@@ -25,7 +25,7 @@
     <setting id="locale.use24hourclock" default="true">regional</setting>
     <setting id="locale.temperatureunit" default="true">regional</setting>
     <setting id="locale.speedunit" default="true">regional</setting>
-    <setting id="screensaver.mode" default="true">default</setting>
+    <setting id="screensaver.mode" default="true" />
     <setting id="screensaver.time" default="true">3</setting>
     <setting id="screensaver.usemusicvisinstead" default="true">true</setting>
     <setting id="screensaver.usedimonpause" default="true">true</setting>
@@ -453,7 +453,7 @@
             <level>0</level>
             <showhigherlevels>true</showhigherlevels>
         </eventlog>
-        <systemtotaluptime>37152</systemtotaluptime>
+        <systemtotaluptime>38022</systemtotaluptime>
     </general>
     <resolutions />
     <defaultvideosettings>
